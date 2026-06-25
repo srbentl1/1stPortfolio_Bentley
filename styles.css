@@ -1,0 +1,13 @@
+/* CSS by Steven Bentley */
+/* color Palette 
+deep black #05080d 
+slate blue #65768C
+steel blue #263640 
+burnt orange #Bf5b04
+earth #733917
+*/
+
+/* Global Styles MOBILE FIRST */
+body {
+    background-color: #65768C;
+}
